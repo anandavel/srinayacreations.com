@@ -1739,6 +1739,12 @@ section{padding: 0;}
     .contact-sec {
         background-position-x: -6%;
     }
+	.contact-sec .contact-details .text {
+  color: #464646;
+  font-size: 17px;
+  font-weight: normal;
+  line-height: 24px;
+}
 }
 
 @media (max-width: 575.98px) {
