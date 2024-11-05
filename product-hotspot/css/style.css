@@ -1722,6 +1722,7 @@ section{padding: 0;}
     /* Background Images Adjustment */
     .slider-area {
         background-position-x: -37%;
+	margin-top: 30px;
     }
     .all-products {
         background-position-x: -12%;
