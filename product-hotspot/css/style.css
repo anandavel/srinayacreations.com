@@ -1732,7 +1732,6 @@ section{padding: 0;}
     }
 	.reviews {
   background-image: url("../images/home_banner.jpg");
-  height: 100vh;
   background-repeat: no-repeat;
   background-size: contain;
 	}
